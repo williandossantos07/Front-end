@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>avaliação</title>
+<body>
+<h1>HISTORIA</h1>
+<p>A história do Curso de Formação de Docentes (antigo Magistério) no Brasil nasceu com a criação das Escolas Normais no século XIX, projetadas para padronizar o ensino primário. Inicialmente de nível médio, o curso passou por profundas transformações estruturais, centralizando-se hoje na formação superior através de Licenciaturas e Pedagogia, moldando a educação básica do país.</p>
+<hr>
+<h2>OBJETIVOS</h2>
+<ul style="list-style-type: circle;">
+<li>Didática e Planejamento: Capacitar o educador a estruturar planos de aula eficientes, desenvolver conteúdos e utilizar metodologias de ensino adequadas</li>
+<li>Avaliação da Aprendizagem: Desenvolver critérios justos e formativos para diagnosticar o progresso dos estudantes.</li>
+<li>Inclusão e Diversidade: Preparar o professor para lidar com diferentes realidades socioculturais, necessidades especiais e promover um ambiente escolar democrático.</li>
+<li>Atualização Tecnológica: Integrar novas tecnologias e recursos digitais às práticas de ensino.</li>
+<li>Desenvolvimento Pessoal e Ético: Estimular a comunicação, a liderança, a empatia e a responsabilidade profissional ao longo de toda a carreira.</li>
+</ul>
+<hr>
+<h2>CAMPO DE ATUAÇÃO</h2>
+<p>O campo de Formação de Docentes dedica-se ao estudo e à preparação de professores para todos os níveis de ensino. Ele engloba a formação inicial (graduação/licenciatura) e a formação continuada, sustentando-se na interdisciplinaridade e integrando saberes de áreas como a Didática, a Pedagogia, a psicologia da educação e a sociologia.</p>
+<hr>
+</hr>
+</body>
+</html>
